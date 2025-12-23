@@ -1,0 +1,8 @@
+Title: Miss
+Full Name: Nayab Afroz
+USN: 1GC24CS071
+Semester: Third
+Section: B
+Branch: Computer Science Engineering
+Year of Admission: 2024
+College Name: GCE
