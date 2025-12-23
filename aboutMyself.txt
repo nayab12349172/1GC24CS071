@@ -6,3 +6,6 @@ Section: B
 Branch: Computer Science Engineering
 Year of Admission: 2024
 College Name: GCE
+SSLC: Holy Crescent English School
+PUC: Vidyanidhi PU College
+UG Degree: 2nd Year BE(CSE)
